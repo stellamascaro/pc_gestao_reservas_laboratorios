@@ -1,6 +1,6 @@
 # Banco de Dados - Reservas de Laboratórios
 
-Este repositório contém os scripts SQL necessários para o **Trabalho Final da disciplina de Banco de Dados I**, ministrada pelo **Professor Gilberto de Oliveira Hiragi**. O projeto abrange a modelagem de dados, criação do banco de dados, carga de dados e testes de consultas para um sistema de gerenciamento de reservas de laboratórios.
+Este repositório contém os scripts SQL necessários para o **Trabalho Final da disciplina de Banco de Dados I** do curso de **Ciência da Computação - CEUB**, ministrada pelo **Professor Gilberto de Oliveira Hiragi**. O projeto abrange a modelagem de dados, criação do banco de dados, carga de dados e testes de consultas para um sistema de gerenciamento de reservas de laboratórios.
 
 ## Estrutura do Repositório
 
